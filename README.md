@@ -2,7 +2,7 @@ Data and code used in Diniz and Aguiar (2022). Scientific Reports (under review)
 
 "Beyond a 'perfect fit': the interplay between morphology and spatiotemporal overlap as determinants of microstructure in a bat-flower network"
 
-Version: 18.01.2023
+Version: 25.01.2023
 
 
 Authors: Ugo M. Diniz (Technische Universität München), Ludmilla M. S. Aguiar (Universidade de Brasília).
