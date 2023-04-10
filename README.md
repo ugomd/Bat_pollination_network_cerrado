@@ -1,18 +1,12 @@
-Data and code used in Diniz and Aguiar (2022). Scientific Reports (under review). 
+Data and code used in Diniz and Aguiar (2023). Scientific Reports 13, 2737.
 
-"Beyond a 'perfect fit': the interplay between morphology and spatiotemporal overlap as determinants of microstructure in a bat-flower network"
-
-Version: 25.01.2023
-
+The interplay between spatiotemporal overlap and morphology as determinants of microstructure suggests no ‘perfect fit’ in a bat-flower network
 
 Authors: Ugo M. Diniz (Technische Universität München), Ludmilla M. S. Aguiar (Universidade de Brasília).
 
+Version: 10.04.2023
+
 E-mail for contact: ugo.diniz@tum.de
-
-
-DOI: 
-
-
 
 -> Folders
 	- Main folder (Analysis): contains the main script, network and .txt and .xls files for most analysis, except the files used for the likelihood analysis and the felis used in Gephi, both of which have their own folders.
@@ -67,4 +61,4 @@ R version used: 4.1.0 (2021-05-18) "Camp Potanezen".
 
 ## Reference
 
-Diniz, U. M., Aguiar, L. M. S. (2022) "Beyond a 'perfect fit': the interplay between morphology and spatiotemporal overlap as determinants of microstructure in a bat-flower network". Scientific Reports (Under review)
+Diniz, U. M., Aguiar, L. M. S. (2023) The interplay between spatiotemporal overlap and morphology as determinants of microstructure suggests no ‘perfect fit’ in a bat-flower network. Scientific Reports 13, 273. https://doi.org/10.1038/s41598-023-29965-3
